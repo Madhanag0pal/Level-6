@@ -80,7 +80,6 @@ body {
   padding: 2px 8px;
   align-items: center;
   height: 30px;
-  width: fit-content;
 }
 
 .TodoItem-container:hover {
